@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **joao1barbosa/joao1barbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+
+
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=joao1barbosa&theme=shadow-orange&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
+
+#### 🔭 I’m currently working on
+
+- HTML + CSS + Javascript
+- React
+- Typescript
+- NodeJS
+
+#### 🌱 I’m currently learning ...
+ - React Native
+ - DevOps
