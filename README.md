@@ -26,11 +26,14 @@ Here are some ideas to get you started:
 #### 🔭 I’m currently working on
 
 - HTML + CSS + Javascript
-- React
 - Typescript
-- NodeJS
+- React
+- React Native
+- PHP/Laravel
 
 #### 🌱 I’m currently learning ...
- - React Native
- - Python
- - PHP/Laravel
+
+- Python
+- Blade (PHP)
+- Filament
+- ElysiaJS
