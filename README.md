@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
-
-
+## Olá 👋
 
 <div align="center">
   
@@ -23,17 +21,15 @@ Here are some ideas to get you started:
   
 </div>
 
-#### 🔭 I’m currently working on
+Engenheiro de Software Júnior focado em construir soluções escaláveis.
 
-- HTML + CSS + Javascript
-- Typescript
-- React
-- React Native
-- PHP/Laravel
+#### 🔭 Atualmente trabalhando com:
+- **Frontend:** Next.js, React, React Native e TypeScript.
+- **Backend & Infra:** PHP (Laravel), Supabase e Docker.
+- **Metodologias:** Desenvolvimento ágil com foco em entregas contínuas (SCRUM).
 
-#### 🌱 I’m currently learning ...
+#### 🌱 Expandindo horizontes:
+- **Ecossistema:** Refatoração de sistemas legados.
+- **Integrações:** Implementação de gateways financeiros.
+- **Estudos:** Python, Filament e ElysiaJS.
 
-- Python
-- Blade (PHP)
-- Filament
-- ElysiaJS
