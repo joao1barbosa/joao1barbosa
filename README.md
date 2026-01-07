@@ -25,7 +25,8 @@ Engenheiro de Software Júnior focado em construir soluções escaláveis.
 
 #### 🔭 Atualmente trabalhando com:
 - **Frontend:** Next.js, React, React Native e TypeScript.
-- **Backend & Infra:** PHP (Laravel), Supabase e Docker.
+- **Backend:** PHP (Laravel), Node e Supabase.
+- **Infra:** Docker, Traefik, Cloudflare Tunnels
 - **Metodologias:** Desenvolvimento ágil com foco em entregas contínuas (SCRUM).
 
 #### 🌱 Expandindo horizontes:
