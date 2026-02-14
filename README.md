@@ -32,5 +32,5 @@ Engenheiro de Software Júnior focado em construir soluções escaláveis.
 #### 🌱 Expandindo horizontes:
 - **Ecossistema:** Refatoração de sistemas legados.
 - **Integrações:** Implementação de gateways financeiros.
-- **Estudos:** Python, Filament e ElysiaJS.
+- **Estudos:** Python, FilamentPHP, Golang e ElysiaJS.
 
