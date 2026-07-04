@@ -1,7 +1,7 @@
 ## Hi 👋 I'm João
 
-![Software Engineer](https://img.shields.io/badge/-Software%20Engineer-050a0e?style=for-the-badge&logo=python&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Platform-050a0e?style=for-the-badge&logo=docker&logoColor=white)
+![Software Engineer](https://img.shields.io/badge/-Software%20Engineer-050a0e?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Platform-050a0e?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao1barbosa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a1a?style=for-the-badge&logo=readthedocs&logoColor=white)](https://joao1barbosa.github.io)
 
